@@ -19,4 +19,4 @@ def simulate(N):
       K = K + 1
   return float(K) / float(N)
 
-print(simulate(N))        
+print("Probability of winning a car by switching is",simulate(N))           
