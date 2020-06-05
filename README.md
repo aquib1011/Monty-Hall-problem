@@ -8,9 +8,11 @@ The Monty Hall problem is a brain teaser, in the form of a probability puzzle, l
 
 ## Should you Switch?
 
-If you switch, you have roughly a 2/3 chance of winning the car.
+The answer sounds unlikely. After door 3 is opened, you would think that you then have two doors to choose from…both with the same odds. However, you are actually much more likely to win if you switch.
 
-If you stick to your original choice you have roughly a 1/3 chance of winning the car
+Those who switched doors won about 2/3 of the time.
+
+Those who didn’t switch won about 1/3 of the time.
 
 <img src = "img.png">
 
